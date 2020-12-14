@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\currency converter\bin\Debug\netcoreapp3.1\currency converter.exe
+C:\Users\dev\Desktop\currency converter\bin\Debug\netcoreapp3.1\currency converter.deps.json
+C:\Users\dev\Desktop\currency converter\bin\Debug\netcoreapp3.1\currency converter.runtimeconfig.json
+C:\Users\dev\Desktop\currency converter\bin\Debug\netcoreapp3.1\currency converter.runtimeconfig.dev.json
+C:\Users\dev\Desktop\currency converter\bin\Debug\netcoreapp3.1\currency converter.dll
+C:\Users\dev\Desktop\currency converter\bin\Debug\netcoreapp3.1\currency converter.pdb
+C:\Users\dev\Desktop\currency converter\obj\Debug\netcoreapp3.1\currency converter.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\currency converter\obj\Debug\netcoreapp3.1\currency converter.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\currency converter\obj\Debug\netcoreapp3.1\currency converter.AssemblyInfo.cs
+C:\Users\dev\Desktop\currency converter\obj\Debug\netcoreapp3.1\currency converter.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\currency converter\obj\Debug\netcoreapp3.1\currency converter.dll
+C:\Users\dev\Desktop\currency converter\obj\Debug\netcoreapp3.1\currency converter.pdb
+C:\Users\dev\Desktop\currency converter\obj\Debug\netcoreapp3.1\currency converter.genruntimeconfig.cache
